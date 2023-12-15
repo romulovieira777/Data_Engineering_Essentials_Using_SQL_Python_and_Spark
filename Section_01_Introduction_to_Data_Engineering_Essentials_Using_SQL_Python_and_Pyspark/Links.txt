@@ -1,0 +1,10 @@
+Python
+https://www.python.org/downloads/
+
+
+Databricks
+https://www.databricks.com/br/try-databricks?scid=7018Y000001Fi0cQAC&utm_medium=paid+search&utm_source=google&utm_campaign=19829725159&utm_adgroup=147439756536&utm_content=trial&utm_offer=try-databricks&utm_ad=665998519899&utm_term=databricks%20inc&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBjgT63mQ_3nPDhYZ6XYPKMF0rddlBFYaF8BBe3LzutwX-XJaoqnw7BoCYhoQAvD_BwE
+
+
+GCP
+https://cloud.google.com/cloud-console?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-BKWS-all-all-trial-e-dr-1605194-LUAC0016032&utm_content=text-ad-none-any-DEV_c-CRE_540885993976-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Management-Tools_Console-KWID_43700065922079883-kwd-309507868020&utm_term=KW_gcp%20console-ST_GCP%20Console&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBh-1yBSeb4kpKhVmRgOmYzdfcuyiGcS4c0EVaZRY4Zq9f_UljleaqRoCd_YQAvD_BwE&gclsrc=aw.ds&hl=pt-br
