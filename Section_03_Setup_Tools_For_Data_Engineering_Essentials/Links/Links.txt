@@ -3,3 +3,6 @@ https://code.visualstudio.com/download
 
 Python
 https://www.python.org/downloads/
+
+PostgreSQL
+https://www.postgresql.org/download/
